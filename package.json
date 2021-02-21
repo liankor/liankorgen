@@ -1,0 +1,11 @@
+{
+    "name": "liankorgen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Liankor",
+    "license": "ISC",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
